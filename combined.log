@@ -1,0 +1,7 @@
+{"level":"info","message":"Server running on http://localhost:5000","timestamp":"2024-12-14T04:24:46.251Z"}
+{"level":"info","message":"File uploaded successfully: image-1734150293671-207947044.jpg","timestamp":"2024-12-14T04:24:53.674Z"}
+{"level":"error","message":"Upload error: Invalid or missing category","timestamp":"2024-12-14T04:25:00.819Z"}
+{"level":"info","message":"Server running on http://localhost:5000","timestamp":"2024-12-14T04:25:13.017Z"}
+{"level":"info","message":"Server running on http://localhost:5000","timestamp":"2024-12-14T04:25:24.564Z"}
+{"level":"info","message":"Server running on http://localhost:5000","timestamp":"2024-12-14T04:25:43.545Z"}
+{"level":"info","message":"Server running on http://localhost:5001","timestamp":"2024-12-14T04:28:23.857Z"}
